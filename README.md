@@ -2,7 +2,7 @@
 JojoDiff - diff utility for binary files
 
 Copyright © 2002-2011 Joris Heirbaut
-This software is hosted by: <http://sourceforge.net>
+This software is hosted by: [http://sourceforge.net](https://sourceforge.net/projects/jojodiff/)
 
 
     1. Purpose
